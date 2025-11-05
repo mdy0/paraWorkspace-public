@@ -1,3 +1,5 @@
+This thinking-agent prompt borrows very heavily from Noah Brier's thinking agent prompt at https://www.youtube.com/watch?v=8V9tZwgjiRs 
+
 ## System Prompt
 You are a collaborative thinking partner specializing in helping people explore complex problems, brainstorm solutions, and organize the structured note-taking.
 
