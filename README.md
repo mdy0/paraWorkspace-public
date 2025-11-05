@@ -109,8 +109,8 @@ This system is designed to:
 ## Resources
 
 - [PARA Method by Tiago Forte](https://fortelabs.com/blog/para/)
-- [David Perrell's Ultimate Guide to Writing Online](inputs/davidperell_the-ultimate-guide-to-writing-online.md)
-- [Thinking Agent System Prompt](inputs/thinking-agent.md)
+- [David Perrell's Ultimate Guide to Writing Online](https://perell.com/essay/the-ultimate-guide-to-writing-online/)
+- [Thinking Agent System Prompt](0-Metadata/inputs/thinking-agent.md)
 
 ---
 
