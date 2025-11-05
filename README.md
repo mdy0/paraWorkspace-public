@@ -1,4 +1,4 @@
-# paraWriting
+# paraWorkspace
 
 A PARA Method implementation optimized for writers and thinkers working with Claude Code.
 
